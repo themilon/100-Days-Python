@@ -1,0 +1,6 @@
+print("100 Days Code Of Python")
+print("Day One Task - Working With Variable In Python")
+print("Concept Practise")
+print("Printing to the console ")
+print("Hello World")
+print("Learning Python ")

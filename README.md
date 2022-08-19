@@ -2,4 +2,4 @@
 
 ![100 Days Of Code](./images/100days-of-code.jpg)
 # Beginner
-### - [x] Day 1 : Working with Variables in Python to Manage Data
+- [x] Day 1 : Working with Variables in Python to Manage Data

@@ -10,4 +10,4 @@
 - [x] Variable Naming
 
 ## Brand Name Generator
-![Brand Name Generator]( ./assignment.gif) 
+![Brand Name Generator](./assignment.gif) 

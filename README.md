@@ -4,7 +4,8 @@
 # Beginner
 - [x] [Day 1] : Working with Variables in Python to Manage Data
 - [x] [Day 2] : Understanding Data Types And How To Manipulates Strings
-- [x] [Day 3] : Control Flow and Logical Operators
+- [x] [Day 3] : Control Flow and Logical Operators  
+- [x] [Day 4] : Randomisation and Python Lists
 
 
 
@@ -21,3 +22,4 @@
 [Day 1]:https://github.com/themilon/100-Days-Python/tree/main/Day-01
 [Day 2]:https://github.com/themilon/100-Days-Python/tree/main/Day-02
 [Day 3]:https://github.com/themilon/100-Days-Python/tree/main/Day-03
+[Day 4]:https://github.com/themilon/100-Days-Python/tree/main/Day-04

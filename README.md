@@ -9,6 +9,7 @@
 - [x] [Day 5] : Python Loops
 - [x] [Day 6] : Python Functions & Karel 
 - [x] [Day 7] : Hangman   
+- [x] [Day 8] : Function Parameters & Caesar Cipher  
 
 
 
@@ -29,3 +30,4 @@
 [Day 5]:https://github.com/themilon/100-Days-Python/tree/main/Day-05
 [Day 6]:https://github.com/themilon/100-Days-Python/tree/main/Day-06
 [Day 7]:https://github.com/themilon/100-Days-Python/tree/main/Day-07
+[Day 8]:https://github.com/themilon/100-Days-Python/tree/main/Day-08

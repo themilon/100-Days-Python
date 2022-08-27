@@ -7,7 +7,8 @@
 - [x] [Day 3] : Control Flow and Logical Operators  
 - [x] [Day 4] : Randomisation and Python Lists
 - [x] [Day 5] : Python Loops
-- [x] [Day 6] : Python Functions & Karel
+- [x] [Day 6] : Python Functions & Karel 
+- [x] [Day 7] : Hangman   
 
 
 
@@ -27,3 +28,4 @@
 [Day 4]:https://github.com/themilon/100-Days-Python/tree/main/Day-04
 [Day 5]:https://github.com/themilon/100-Days-Python/tree/main/Day-05
 [Day 6]:https://github.com/themilon/100-Days-Python/tree/main/Day-06
+[Day 7]:https://github.com/themilon/100-Days-Python/tree/main/Day-07

@@ -10,6 +10,7 @@
 - [x] [Day 6] : Python Functions & Karel 
 - [x] [Day 7] : Hangman   
 - [x] [Day 8] : Function Parameters & Caesar Cipher  
+- [x] [Day 9] : Dictionaries, Nesting and the Secret Auction
 
 
 
@@ -31,3 +32,4 @@
 [Day 6]:https://github.com/themilon/100-Days-Python/tree/main/Day-06
 [Day 7]:https://github.com/themilon/100-Days-Python/tree/main/Day-07
 [Day 8]:https://github.com/themilon/100-Days-Python/tree/main/Day-08
+[Day 9]:https://github.com/themilon/100-Days-Python/tree/main/Day-09

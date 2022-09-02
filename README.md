@@ -12,7 +12,8 @@
 - [x] [Day 8] : Function Parameters & Caesar Cipher  
 - [x] [Day 9] : Dictionaries, Nesting and the Secret Auction
 - [x] [Day 10] : Functions with Outputs  
-- [x] [Day 11] : The Blackjack Capstone Project    
+- [x] [Day 11] : The Blackjack Capstone Project  
+- [x] [Day 12] : Scope & Number Guessing Game  
 
 
 
@@ -37,3 +38,4 @@
 [Day 9]:https://github.com/themilon/100-Days-Python/tree/main/Day-09
 [Day 10]:https://github.com/themilon/100-Days-Python/tree/main/Day-10
 [Day 11]:https://github.com/themilon/100-Days-Python/tree/main/Day-11
+[Day 12]:https://github.com/themilon/100-Days-Python/tree/main/Day-12

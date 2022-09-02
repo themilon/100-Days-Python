@@ -14,6 +14,8 @@
 - [x] [Day 10] : Functions with Outputs  
 - [x] [Day 11] : The Blackjack Capstone Project  
 - [x] [Day 12] : Scope & Number Guessing Game  
+- [x] [Day 13] : Debugging: How to Find and Fix Errors in your Code 
+- [x] [Day 14] : Higher Lower Game Project
 
 
 
@@ -39,3 +41,5 @@
 [Day 10]:https://github.com/themilon/100-Days-Python/tree/main/Day-10
 [Day 11]:https://github.com/themilon/100-Days-Python/tree/main/Day-11
 [Day 12]:https://github.com/themilon/100-Days-Python/tree/main/Day-12
+[Day 13]:https://github.com/themilon/100-Days-Python/tree/main/Day-13
+[Day 14]:https://github.com/themilon/100-Days-Python/tree/main/Day-14

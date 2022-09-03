@@ -15,7 +15,10 @@
 - [x] [Day 11] : The Blackjack Capstone Project  
 - [x] [Day 12] : Scope & Number Guessing Game  
 - [x] [Day 13] : Debugging: How to Find and Fix Errors in your Code 
-- [x] [Day 14] : Higher Lower Game Project
+- [x] [Day 14] : Higher Lower Game Project  
+
+#  Intermediate  
+- [x] [Day 15] : Local Development Environment Setup & the Coffee Machine
 
 
 
@@ -43,3 +46,4 @@
 [Day 12]:https://github.com/themilon/100-Days-Python/tree/main/Day-12
 [Day 13]:https://github.com/themilon/100-Days-Python/tree/main/Day-13
 [Day 14]:https://github.com/themilon/100-Days-Python/tree/main/Day-14
+[Day 15]:https://github.com/themilon/100-Days-Python/tree/main/Day-15

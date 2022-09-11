@@ -21,6 +21,7 @@
 - [x] [Day 15] : Local Development Environment Setup & the Coffee Machine  
 - [x] [Day 16] : Object Oriented Programming (OOP)  
 - [x] [Day 17] : The Quiz Project & The Benefits of OOP  
+- [x] [Day 18] : Turtle & the Graphical User Interface (GUI)  
 
 
 
@@ -51,3 +52,4 @@
 [Day 15]:https://github.com/themilon/100-Days-Python/tree/main/Day-15
 [Day 16]:https://github.com/themilon/100-Days-Python/tree/main/Day-16
 [Day 17]:https://github.com/themilon/100-Days-Python/tree/main/Day-17
+[Day 18]:https://github.com/themilon/100-Days-Python/tree/main/Day-18

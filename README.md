@@ -18,7 +18,8 @@
 - [x] [Day 14] : Higher Lower Game Project  
 
 #  Intermediate  
-- [x] [Day 15] : Local Development Environment Setup & the Coffee Machine
+- [x] [Day 15] : Local Development Environment Setup & the Coffee Machine  
+- [x] [Day 16] : Object Oriented Programming (OOP)  
 
 
 
@@ -47,3 +48,4 @@
 [Day 13]:https://github.com/themilon/100-Days-Python/tree/main/Day-13
 [Day 14]:https://github.com/themilon/100-Days-Python/tree/main/Day-14
 [Day 15]:https://github.com/themilon/100-Days-Python/tree/main/Day-15
+[Day 16]:https://github.com/themilon/100-Days-Python/tree/main/Day-16

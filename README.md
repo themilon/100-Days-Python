@@ -23,6 +23,7 @@
 - [x] [Day 17] : The Quiz Project & The Benefits of OOP  
 - [x] [Day 18] : Turtle & the Graphical User Interface (GUI)  
 - [x] [Day 19] :Instances, State and Higher Order Functions  
+- [x] [Day 20] :Build the Snake Game Part 1: Animation & Coordinates  
 
 
 
@@ -55,3 +56,4 @@
 [Day 17]:https://github.com/themilon/100-Days-Python/tree/main/Day-17
 [Day 18]:https://github.com/themilon/100-Days-Python/tree/main/Day-18
 [Day 19]:https://github.com/themilon/100-Days-Python/tree/main/Day-19
+[Day 20]:https://github.com/themilon/100-Days-Python/tree/main/Day-20

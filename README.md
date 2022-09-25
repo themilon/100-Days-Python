@@ -25,7 +25,7 @@
 - [x] [Day 19] :Instances, State and Higher Order Functions  
 - [x] [Day 20] :Build the Snake Game Part 1: Animation & Coordinates 
 - [x] [Day 21] :Build the Snake Game Part 2: Inheritance & List Slicing
-
+- [x] [Day 22] :Build Pong: The Famous Arcade Game  
 
 
 
@@ -59,3 +59,4 @@
 [Day 19]:https://github.com/themilon/100-Days-Python/tree/main/Day-19
 [Day 20]:https://github.com/themilon/100-Days-Python/tree/main/Day-20
 [Day 21]:https://github.com/themilon/100-Days-Python/tree/main/Day-21
+[Day 22]:https://github.com/themilon/100-Days-Python/tree/main/Day-22
